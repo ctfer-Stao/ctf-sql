@@ -2,4 +2,4 @@
 
 有什么问题欢迎指出。
 
-![测试](test/2.gif)
+![测试](https://blog-1301050970.cos.ap-guangzhou.myqcloud.com/2.gif)
