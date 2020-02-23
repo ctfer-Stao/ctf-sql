@@ -2,4 +2,4 @@
 
 有什么问题欢迎指出。
 
-![](2.gif)
+![测试](https://github.com/ctf-stao/ctf-sqk/raw/2.gif)
